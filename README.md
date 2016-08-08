@@ -1,2 +1,2 @@
 # hello-world
-Starter repository
+As any other hello-word GitHub repository, I am getting familiar with GitHub
